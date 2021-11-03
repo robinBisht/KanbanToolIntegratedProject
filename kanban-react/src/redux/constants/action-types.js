@@ -1,0 +1,11 @@
+export const ActionTypes = {
+    SET_EMPLOYEE:"SET_EMPLOYEE",
+    SET_MANAGER:"SET_MANAGER",
+    ADD_TO_TEAM:"ADD_TO_TEAM",
+    ADD_TEAM:"ADD_TEAM",
+    SET_TEAM:"TEAM_TEAM",
+    SET_TASK:"SET_TASK",
+    LOGIN:"LOGIN",
+    LOGOUT:"LOGOUT",
+    SIGNUP:"SIGNUP"
+  };
